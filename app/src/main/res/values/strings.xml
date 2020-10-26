@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HT_7.2.2</string>
+    <string name="number_ET">Введите номер телефона</string>
+    <string name="sms_ET">Введите сообщение</string>
+    <string name="call_button">call</string>
+    <string name="send_button">send sms</string>
+</resources>
